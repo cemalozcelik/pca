@@ -1,4 +1,4 @@
-# pca
+# Principal Component Analysis (PCA)
  pca analysis on images and data
 
 Principal Component Analysis (PCA) is a mathematical formulation that allows for the
